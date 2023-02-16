@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm <strong>Loïs GALLAUD</strong></h1>
 
-<h2 align="center">🔵⚪🔴 <br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br> 🔵⚪🔴</h2>
-<br>
+<h2 align="center">🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</h2>
 
 ---
 
