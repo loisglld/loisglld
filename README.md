@@ -9,9 +9,9 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
     <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
-      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 30%;">
+      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 30%;">
+      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 45%;">
     </a>
     <p>Télécom Physique Strasbourg, Graduate Engineering School since 1970</p>
   </div>
