@@ -9,35 +9,31 @@
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
       <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 40%;">
     </a>
-    <p>Télécom Physique Strasbourg</p>
+    <p>Télécom Physique Strasbourg, Graduate Engineering School since 1970</p>
   </div>
-  <!--<div style="flex: 1;">
-    <a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 40%;">
-    </a>
-    <p>Strasbourg, France</p>
-  </div>-->
 </div>
 
 <div>
   <h2 align="center">💻 My computing skills</h2>
-  <div>
-    <h3>Programming languages :</h3>
-    <p>
-        <img src="https://skillicons.dev/icons?i=py,c,html,css,md,matlab,mysql,sqlite&perline=4" />
-    </p>
-  </div>
-  <div>
-    <h3>And other :</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium" />
-    </p>
-  </div>
-  <div>
-  <h3>Platforms i use :</h3>
-    <p>
-        <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode&perline=3" />
-    </p>
+  <div style="display:flex; justify-content:space-between; gap:10px;">
+    <div>
+      <h3>Programming languages :</h3>
+      <p>
+          <img src="https://skillicons.dev/icons?i=py,c,html,css,md,matlab,mysql,sqlite&perline=4" />
+      </p>
+    </div>
+    <div>
+      <h3>And other :</h3>
+      <p>
+        <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium" />
+      </p>
+    </div>
+    <div>
+    <h3>Platforms i use :</h3>
+      <p>
+          <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode&perline=3" />
+      </p>
+    </div>
   </div>
 </div>
 
