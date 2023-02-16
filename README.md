@@ -2,7 +2,7 @@
 
 <h2 align="center">🔵⚪🔴 <br> 19 years old French generalist engineering student at <br> Télécom Physique Strasbourg</h2>
 
-<div align="center" style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
     <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
       <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 40%;">
