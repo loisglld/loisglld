@@ -3,13 +3,15 @@
 <h2 align="center">🔵⚪🔴 <br> 19 years old French generalist engineering student at <br> Télécom Physique Strasbourg</h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1;" align="center">
+  <div style="flex: 1;">
     <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
-      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
+      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 100%;">
     </a>
     <p>Télécom Physique Strasbourg</p>
+  </div>
+  <div style="flex: 1;">
     <a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 45%;">
+      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 100%;">
     </a>
     <p>Strasbourg, France</p>
   </div>
