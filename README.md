@@ -1,6 +1,6 @@
-<h1 align="center">Hi there, I'm <strong>Loïs GALLAUD</strong></h1>
+<h1 align="center">Hi there :wave:, I'm <strong>Loïs GALLAUD</strong></h1>
 
-<h2 align="center">🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</h2>
+<p align="center" style="font-size:1.4rem;">🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</p>
 
 ---
 
@@ -19,31 +19,33 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   </div>
 </div>
 
-<div>
-  <h2 align="center">💻 My computing skills</h2>
-  <div style="width: 700px; display:flex; justify-content:space-between; gap:10px;">
-    <div>
-      <h3>Programming languages :</h3>
-      <p>
-          <img src="https://skillicons.dev/icons?i=py,c,html,css,md,matlab,mysql,sqlite" />
-      </p>
-    </div>
-    <div>
-      <h3>And other :</h3>
-      <p>
-        <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium" />
-      </p>
-    </div>
-    <div>
-    <h3>Platforms i use :</h3>
-      <p>
-          <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode" />
-      </p>
-    </div>
+## :bulb: **What are my projects ?**
+
+## :computer: My computing skills
+
+<div style="width: 700px; display:flex; justify-content:space-between; gap:10px;">
+  <div>
+    <h3>Programming languages :</h3>
+    <p>
+        <img src="https://skillicons.dev/icons?i=py,c,html,css,md,matlab,mysql,sqlite" />
+    </p>
+  </div>
+  <div>
+    <h3>And other :</h3>
+    <p>
+      <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium" />
+    </p>
+  </div>
+  <div>
+  <h3>Platforms i use :</h3>
+    <p>
+        <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode" />
+    </p>
   </div>
 </div>
 
-<h2 align="center">:information_source: GitHub Stats</h2>
+## :information_source: GitHub Stats
+
 <div align='center'>
   <a href="https://github.com/LOISGALLAUD/github-readme-streak-stats">
   <img alt="LOISGALLAUD's streak" src="https://streak-stats.demolab.com/?user=LOISGALLAUD&theme=monokai-metallian&hide_border=true" width="500px"/></a>
