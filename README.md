@@ -1,12 +1,8 @@
-<style>
-    {
-        font-size: 20px;
-    }
-</style>
+<h1 align="center">Hi there :wave:, I'm <strong>Loïs GALLAUD
+<br><br>
+🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</strong></h1>
 
-<h1 align="center">Hi there :wave:, I'm <strong>Loïs GALLAUD</strong></h1>
-
-<p align="center" style="font-size:20px;">🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</p>
+<p align="center"></p>
 
 ---
 
@@ -25,11 +21,15 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   </div>
 </div>
 
+---
+
 ## :bulb: **What are my projects ?**
+
+---
 
 ## :computer: My computing skills
 
-<div style="width: 700px; display:flex; justify-content:space-between; gap:10px;">
+<div>
   <div>
     <h3>Programming languages :</h3>
     <p>
@@ -49,6 +49,8 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
     </p>
   </div>
 </div>
+
+---
 
 ## :information_source: GitHub Stats
 
