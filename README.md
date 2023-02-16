@@ -3,15 +3,15 @@
 <h2 align="center">🔵⚪🔴 <br> 19 years old French generalist engineering student at <br> Télécom Physique Strasbourg</h2>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1;">
+  <div style="flex: 1;" align="center">
     <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
-      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 100%;">
+      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
     </a>
     <p>Télécom Physique Strasbourg</p>
   </div>
-  <div style="flex: 1;">
+  <div style="flex: 1;" align="center">
     <a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 100%;">
+      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 45%;">
     </a>
     <p>Strasbourg, France</p>
   </div>
@@ -41,9 +41,9 @@
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api?username=LOISGALLAUD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=LOISGALLAUD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   </div>
   <div style="flex: 1;">
-    <img style="width: 100%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&layout=compact&langs_count=16&theme=github_dark" />
+    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&layout=compact&langs_count=16&theme=github_dark" />
   </div>
 </div>
