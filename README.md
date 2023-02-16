@@ -19,7 +19,7 @@
     <div>
       <h3>Programming languages :</h3>
       <p>
-          <img src="https://skillicons.dev/icons?i=py,c,html,css,md,matlab,mysql,sqlite&perline=4" />
+          <img src="https://skillicons.dev/icons?i=py,c,html,css,md,matlab,mysql,sqlite" />
       </p>
     </div>
     <div>
@@ -31,7 +31,7 @@
     <div>
     <h3>Platforms i use :</h3>
       <p>
-          <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode&perline=3" />
+          <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode" />
       </p>
     </div>
   </div>
