@@ -2,10 +2,6 @@
 <br><br>
 🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</strong></h1>
 
-<p align="center"></p>
-
----
-
 ## :mortar_board: **Where do I study ?**
 
 I'm currently studying at Télécom Physique Strasbourg, a graduate engineering school in Strasbourg, France. I'm in my 3rd year of a 5 years long program, called "Cycle Ingénieur". I'm currently in the generalist department.
