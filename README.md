@@ -2,7 +2,7 @@
 
 <h2 align="center">🔵⚪🔴 <br> 19 years old French generalist engineering student at <br> Télécom Physique Strasbourg</h2>
 
-<div style="display: flex; justify-content: center; align-items: center;">
+<div align="center" style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
     <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
       <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 100%;">
@@ -34,11 +34,12 @@
   <div>
   <h3>Platforms i use :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode" />
+        <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode&perline=3" />
     </p>
   </div>
 </div>
 
+<h2 align="center">:information_source: GitHub Stats</h2>
 <div style="display: flex; justify-content: center; align-items: center;">
   <div style="flex: 1;">
     <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=LOISGALLAUD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
