@@ -15,7 +15,7 @@
 
 <div>
   <h2 align="center">💻 My computing skills</h2>
-  <div style="display:flex; justify-content:space-between; gap:10px;">
+  <div style="width: 700px; display:flex; justify-content:space-between; gap:10px;">
     <div>
       <h3>Programming languages :</h3>
       <p>
@@ -38,9 +38,11 @@
 </div>
 
 <h2 align="center">:information_source: GitHub Stats</h2>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <div style="flex: 1;">
-    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=LOISGALLAUD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-    <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&layout=compact&langs_count=16&theme=github_dark" />
-  </div>
+<div align='center'>
+  <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api?username=LOISGALLAUD&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+
+  <img style="width: 45%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&layout=compact&langs_count=16&theme=github_dark" />
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=LOISGALLAUD&theme=dark&border_radius=7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 </div>
