@@ -9,12 +9,12 @@
     </a>
     <p>Télécom Physique Strasbourg</p>
   </div>
-  <div style="flex: 1;">
+  <!--<div style="flex: 1;">
     <a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
       <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 40%;">
     </a>
     <p>Strasbourg, France</p>
-  </div>
+  </div>-->
 </div>
 
 <div>
