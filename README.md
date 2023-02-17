@@ -44,7 +44,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ---
 
-## :bulb: **What are my projects ?**
+## :bulb: **What are my main projects ?**
 
 ### **Python projects**
 
@@ -52,9 +52,12 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 * [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : Python programmed User Interface in dialogue with a data base to manage Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
 
-### Other projects
+### **Other perspectives**
 
 * Learning ReactNative, C++, php, and more...
+* Going deeper in the world of web development
+* Learning more about databases and collecting data
+* Learning more about machine learning and artificial intelligence
 
 ---
 
