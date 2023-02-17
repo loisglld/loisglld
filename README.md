@@ -11,7 +11,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
     <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
       <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/map-france2.png" alt="Strasbourg location" style="width: 45%;">
+      <img src="./images/strasbourg.png" alt="Strasbourg location" style="width: 45%;">
     </a>
     <p>Télécom Physique Strasbourg, Graduate Engineering School since 1970</p>
   </div>
@@ -20,6 +20,14 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 ---
 
 ## :bulb: **What are my projects ?**
+
+<img alt='MacroScrapper logo' src='./images/MacroLogo.png' width='15%' align='right' style='margin:1vw'>
+
+* [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : Web scrapper for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
+
+<img alt='MarcoNeo logo' src='./images/MarcoNeo.png' width='30%' align='right' style='margin:1vw'>
+
+* [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : Python programmed User Interface in dialogue with a data base to manage Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
 
 ---
 
@@ -52,11 +60,8 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 <div align='center'>
   <a href="https://github.com/LOISGALLAUD/github-readme-streak-stats">
-  <img alt="LOISGALLAUD's streak" src="https://streak-stats.demolab.com/?user=LOISGALLAUD&theme=monokai-metallian&hide_border=true" width="500px"/></a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LOISGALLAUD's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LOISGALLAUD&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="500px"/></a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LOISGALLAUD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="500px"/></a>
-
+  <img alt="LOISGALLAUD's streak" src="https://streak-stats.demolab.com/?user=LOISGALLAUD&theme=monokai-metallian&hide_border=true" width="400px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LOISGALLAUD's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=LOISGALLAUD&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" width="400px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LOISGALLAUD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="400px"/></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LOISGALLAUD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LOISGALLAUD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
 </div>
