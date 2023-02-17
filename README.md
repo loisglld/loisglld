@@ -21,12 +21,19 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ## :bulb: **What are my projects ?**
 
-<img alt='MarcoNeo logo' src='./images/MarcoNeo.png' width='30%' align='right' style='margin-top:3vw'>
-<img alt='MacroScrapper logo' src='./images/MacroLogo.png' width='15%' align='right' style='margin:1vw'>
+### **Python projects**
 
-* [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : Web scrapper for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
+|<img alt='MacroScrapper logo' src='./images/MacroLogo.png' width='15%'>|<img alt='MarcoNeo logo' src='./images/MarcoNeo.png' width='100%'>|
+|:--:|:--:|
+|[**MacroScrapper**](https://github.com/LOISGALLAUD/MacroScrapper)|[**MarcoNeo**](https://github.com/LOISGALLAUD/Marconeo)|
+
+[MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : Web scrapper for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
 
 * [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : Python programmed User Interface in dialogue with a data base to manage Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
+
+### Other projects
+
+* Learning ReactNative, C++, php, and more...
 
 ---
 
