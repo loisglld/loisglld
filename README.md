@@ -21,8 +21,8 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ## :bulb: **What are my projects ?**
 
+<img alt='MarcoNeo logo' src='./images/MarcoNeo.png' width='30%' align='right' style='margin-top:3vw'>
 <img alt='MacroScrapper logo' src='./images/MacroLogo.png' width='15%' align='right' style='margin:1vw'>
-<img alt='MarcoNeo logo' src='./images/MarcoNeo.png' width='30%' align='right' style='margin:1vw'>
 
 * [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : Web scrapper for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
 
