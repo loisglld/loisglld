@@ -31,7 +31,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   <div>
     <h3>And other :</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium" />
+      <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium,cmake" />
     </p>
   </div>
   <div>
