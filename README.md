@@ -54,7 +54,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ### **Other perspectives**
 
-* Learning ReactNative, C++, php, and more...
+* Learning JavaScript, C++, php, and more...
 * Going deeper in the world of web development
 * Learning more about databases and collecting data
 * Learning more about machine learning and artificial intelligence
