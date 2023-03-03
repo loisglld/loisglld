@@ -25,7 +25,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   <div>
     <h3>Programming languages :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=py,c,html,css,md,matlab,mysql,sqlite" />
+        <img src="https://skillicons.dev/icons?i=py,c,html,css,js,md,matlab,mysql,sqlite" />
     </p>
   </div>
   <div>
