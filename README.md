@@ -70,3 +70,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LOISGALLAUD's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" width="400px"/></a>
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LOISGALLAUD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LOISGALLAUD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+</p>
