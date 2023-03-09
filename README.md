@@ -72,5 +72,5 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&desc=Hello%20there,%0AI'm%20Loïs%20Gallaud%20:wave:"/>
 </p>
