@@ -1,4 +1,6 @@
-<h1 align="center">Hello there :wave:, I'm <strong>Loïs GALLAUD
+<h1 align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
+</p>Hello there :wave:, I'm <strong>Loïs GALLAUD
 <br><br>
 🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</strong></h1>
 
@@ -71,6 +73,4 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LOISGALLAUD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LOISGALLAUD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn&desc=Hello%20there,%0AI'm%20Loïs%20Gallaud%20:wave:"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/>
