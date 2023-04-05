@@ -66,9 +66,10 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 ## :information_source: GitHub Stats
 
 <div align='center'>
-  <a href="https://github.com/LOISGALLAUD/github-readme-streak-stats">
-  <img alt="LOISGALLAUD's streak" src="https://streak-stats.demolab.com/?user=LOISGALLAUD&theme=monokai-metallian&hide_border=true" width="900px"/></a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="LOISGALLAUD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LOISGALLAUD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/></a>
+  <a href="https://github.com/LOISGALLAUD">
+  <img alt="LOISGALLAUD's streak" src="https://streak-stats.demolab.com/?user=LOISGALLAUD&theme=monokai-metallian&hide_border=true" width="900px"/>
+  <img alt="LOISGALLAUD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LOISGALLAUD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
+  </a>
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/>
