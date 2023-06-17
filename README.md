@@ -6,6 +6,8 @@
 
 ## :mortar_board: **Where do I study ?**
 
+<img src="./images/tps-logo.png" width=1000>
+
 I'm currently studying at Télécom Physique Strasbourg, a graduate engineering school in Strasbourg, France. I'm in my 3rd year of a 5 years long program, called "Cycle Ingénieur". I'm currently in the generalist department.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
@@ -56,7 +58,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 * [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : Python programmed User Interface in dialogue with a data base to manage Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
 
-<img src="./images/main_menu.png" width=250>
+<img src="./images/main_menu.png" width=250> <img src="./images/historique_menu.png" width=250> <img src="./images/pricemodifier.png" width=250>
 
 ### **Other perspectives**
 
