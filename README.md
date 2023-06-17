@@ -52,11 +52,15 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 * [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : Web scrapper for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
 
+<img src="./images/MacroLogo.png" width=80>
+
 * [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : Python programmed User Interface in dialogue with a data base to manage Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
+
+<img src="./images/main_menu.png" width=250>
 
 ### **Other perspectives**
 
-* Learning JavaScript, C++, php, and more...
+* Learning JavaScript, React, php, and more...
 * Going deeper in the world of web development
 * Learning more about databases and collecting data
 * Learning more about machine learning and artificial intelligence
