@@ -35,13 +35,13 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   <div>
     <h3>And other :</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=docker,selenium,django,cmake,redis,figma,arduino" />
+      <img src="https://skillicons.dev/icons?i=docker,selenium,django,cmake,redis,figma,arduino,raspberrypi" />
     </p>
   </div>
   <div>
   <h3>Platforms i use :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=github,discord,linux,powershell,raspberrypi,vscode" />
+        <img src="https://skillicons.dev/icons?i=github,discord,linux,powershell,vscode" />
     </p>
   </div>
 </div>
