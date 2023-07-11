@@ -29,19 +29,19 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
   <div>
     <h3>Programming languages :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=py,c,html,css,js,md,matlab,mysql,sqlite" />
+        <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,mysql,sqlite" />
     </p>
   </div>
   <div>
     <h3>And other :</h3>
     <p>
-      <img src="https://skillicons.dev/icons?i=git,docker,arduino,selenium,cmake" />
+      <img src="https://skillicons.dev/icons?i=docker,selenium,django,cmake,redis,figma,arduino" />
     </p>
   </div>
   <div>
   <h3>Platforms i use :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=github,discord,bash,linux,raspberrypi,vscode" />
+        <img src="https://skillicons.dev/icons?i=github,discord,linux,powershell,raspberrypi,vscode" />
     </p>
   </div>
 </div>
@@ -74,7 +74,6 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 <div align='center'>
   <a href="https://github.com/LOISGALLAUD">
   <img alt="LOISGALLAUD's streak" src="https://streak-stats.demolab.com/?user=LOISGALLAUD&theme=monokai-metallian&hide_border=true" width="900px"/>
-  <img alt="LOISGALLAUD's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph/?username=LOISGALLAUD&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true"/>
   </a>
 </div>
 
