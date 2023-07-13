@@ -23,6 +23,34 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ---
 
+## **:file_folder: Profesional experiences**
+
+<img src="./images/1519875605199.jpeg" width=150
+ align='right'>
+
+### *Automation Robotic Packaging (France, 36)*
+
+The goal was to **dockerizing a Django application** to deploy on any machine. The application is a web interface to manage the organization of electrical components in ARP machine projects.The goal of the internship was to make the application easy to deploy on any machine, and to make it easy to update for the developer.
+**I had to learn about Docker, Django, and how to run asynchronous tasks with `Redis` and `Celery`**.
+
+<div style="text-align:center;">
+    <img src="./images/docker-network-arp.png" width="600">
+    <p>Docker structure set up for application's needs</p>
+</div>
+
+
+<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg
+" width=150
+ align='right'>
+
+### CILcare (France, 34)
+
+I developed **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company. The primary goal of the application was to provide an intuitive and user-friendly interface while ensuring ease of deployment. The app was designed to efficiently manage the planning of the company's employees. By consolidating all the necessary information in one place, it allowed for a comprehensive overview of the company's schedule. Built using Tkinter, CILpink Agenda is accessible to all employees, enabling seamless collaboration and streamlined planning processes.
+
+This project not only showcased my technical skills in developing a robust application but also demonstrated **my ability to effectively collaborate with both the junior enterprise and the company to deliver a valuable solution**. It serves as a testament to **my commitment to creating user-centric applications** that are both easy to use and efficient in meeting business needs.
+
+---
+
 ## :computer: My computing skills
 
 <div>
