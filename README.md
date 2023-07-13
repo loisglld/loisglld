@@ -39,9 +39,7 @@ The goal was to **dockerizing a Django application** to deploy on any machine. T
 </div>
 
 
-<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg
-" width=150
- align='right'>
+<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg" width=150 align='right'>
 
 ### CILcare (France, 34)
 
