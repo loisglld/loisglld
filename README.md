@@ -25,7 +25,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ## **:file_folder: Professional experiences**
 
-<img src="./images/1519875605199.jpeg" width=150
+<img src="./images/arp.jpg" width=150
  align='right'>
 
 ### *Automation Robotic Packaging (France, 36)*
@@ -42,7 +42,7 @@ The goal was to **dockerizing a Django application** to deploy on any machine. T
 
 ### *CILcare (France, 34)*
 
-I developed **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company. The primary goal of the application was to provide an intuitive and user-friendly interface while ensuring ease of deployment. The app was designed to efficiently manage the planning of the company's employees. By consolidating all the necessary information in one place, it allowed for a comprehensive overview of the company's schedule. Built using Tkinter, CILpink Agenda is accessible to all employees, enabling seamless collaboration and streamlined planning processes.
+I worked on **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company. 
 
 ---
 
