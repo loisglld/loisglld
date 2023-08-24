@@ -25,7 +25,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ## **:file_folder: Professional experiences**
 
-<img src="./images/arp.jpg" width=150
+<img src="./images/arp.jpg" width=350
  align='right'>
 
 ### *Automation Robotic Packaging (France, 36)*
