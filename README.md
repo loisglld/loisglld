@@ -26,11 +26,11 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 ## **:file_folder: Professional experiences**
 
 <img src="./images/arp.jpg" width=200
- align='right'>
+ align='right' alt="France, 36">
 
-### *Automation Robotic Packaging (France, 36)*
+### DevOps internship: *Automation Robotic Packaging*
 
-The goal was to **dockerizing a Django application** to deploy on any machine. The application is a web interface to manage the organization of electrical components in ARP machine projects.The goal of the internship was to make the application easy to deploy on any machine, and to make it easy to update for the developer.
+The goal was to **dockerizing a Django application** to deploy on any machine. The application is a web interface to manage the organization of electrical components in ARP machine projects.The goal of the internship was to make the application easy to deploy on any machine, and to make it easy to update for the developers.
 **I had to learn about Docker, Django, and how to run asynchronous tasks with `Redis` and `Celery`**.
 
 <div style="text-align:center;">
@@ -38,9 +38,9 @@ The goal was to **dockerizing a Django application** to deploy on any machine. T
     <p>Docker structure set up for application's needs</p>
 </div>
 
-<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg" width=110 align='right'>
+<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg" width=110 align='right' alt="France, 34">
 
-### *CILcare (France, 34)*
+### Software Development: *CILcare*
 
 I worked on **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company.
 
