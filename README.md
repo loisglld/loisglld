@@ -52,7 +52,9 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
   <div>
     <p>
         <h3>• Web development</h3>
-        <img src="https://skillicons.dev/icons?i=html,js,css,django,bootstrap" />
+        <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=python,flask,django,nginx" />
         <br>
         <img src="https://skillicons.dev/icons?i=react,nextjs,figma" />
         <br>
@@ -62,6 +64,9 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
         <br>
         <img src="https://skillicons.dev/icons?i=cmake" />
+        <br>
+        <h3>• High level programming and OOP</h3>
+        <img src="https://skillicons.dev/icons?i=python,lua" />
         <br>
         <h3>• DevOps</h3>
         <img src="https://skillicons.dev/icons?i=git,github,docker,k8s" />
@@ -78,17 +83,13 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 ### **Python projects**
 
-* [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : Web scrapper for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
+* [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
 
 <img src="./images/MacroLogo.png" width=100> <img src="./images/macro-banner.png" height=100>
 
-* [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : Python programmed User Interface in dialogue with a data base to manage Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
+* [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : **Full Stack Python** project managing Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
 
 <img src="./images/main_menu.png" width=250> <img src="./images/historique_menu.png" width=250> <img src="./images/pricemodifier.png" width=250>
-
-### **Web projects**
-
-*
 
 ### **Other perspectives**
 
