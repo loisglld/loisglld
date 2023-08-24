@@ -38,11 +38,11 @@ The goal was to **dockerizing a Django application** to deploy on any machine. T
     <p>Docker structure set up for application's needs</p>
 </div>
 
-<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg" width=150 align='right'>
+<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg" width=110 align='right'>
 
 ### *CILcare (France, 34)*
 
-I worked on **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company. 
+I worked on **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company.
 
 ---
 
@@ -50,21 +50,24 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 <div>
   <div>
-    <h3>Programming languages :</h3>
     <p>
-        <img src="https://skillicons.dev/icons?i=py,c,cpp,html,css,js,md,matlab,mysql,sqlite" />
-    </p>
-  </div>
-  <div>
-    <h3>And other :</h3>
-    <p>
-      <img src="https://skillicons.dev/icons?i=docker,selenium,django,cmake,redis,figma,arduino,raspberrypi" />
-    </p>
-  </div>
-  <div>
-  <h3>Platforms i use :</h3>
-    <p>
-        <img src="https://skillicons.dev/icons?i=github,discord,linux,powershell,vscode" />
+        <h3>• Web development</h3>
+        <img src="https://skillicons.dev/icons?i=html,js,css,django,bootstrap" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=react,nextjs,figma" />
+        <br>
+        <h3>• Low level programming</h3>
+        <img src="https://skillicons.dev/icons?i=c,cpp,rust" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=cmake" />
+        <br>
+        <h3>• DevOps</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,k8s" />
+        <br>
+        <h3>• Databases</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
     </p>
   </div>
 </div>
@@ -83,9 +86,13 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 <img src="./images/main_menu.png" width=250> <img src="./images/historique_menu.png" width=250> <img src="./images/pricemodifier.png" width=250>
 
+### **Web projects**
+
+*
+
 ### **Other perspectives**
 
-* Learning JavaScript, React, php, and more...
+* Learning JavaScript, React with NextJs, and more...
 * Going deeper in the world of web development
 * Learning more about databases and collecting data
 * Learning more about machine learning and artificial intelligence
