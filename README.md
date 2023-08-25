@@ -59,11 +59,9 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
         <img src="https://skillicons.dev/icons?i=react,nextjs,figma" />
         <br>
         <h3>• Low level programming</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp,rust" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,rust,cmake" />
         <br>
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=cmake" />
         <br>
         <h3>• High level programming and OOP</h3>
         <img src="https://skillicons.dev/icons?i=python,lua" />
