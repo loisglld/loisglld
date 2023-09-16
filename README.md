@@ -2,7 +2,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
 </p>Hello there :wave:, I'm <strong>Loïs GALLAUD
 <br><br>
-🔵⚪🔴 <br><br> I'm a 19 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</strong></h1>
+🔵⚪🔴 <br><br> I'm a 20 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</strong></h1>
 
 ## :mortar_board: **Where do I study ?**
 
@@ -28,7 +28,7 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 <img src="./images/arp.jpg" width=200
  align='right' alt="France, 36">
 
-### DevOps internship: *Automation Robotic Packaging*
+### DevOps internship: _Automation Robotic Packaging_
 
 The goal was to **dockerizing a Django application** to deploy on any machine. The application is a web interface to manage the organization of electrical components in ARP machine projects.The goal of the internship was to make the application easy to deploy on any machine, and to make it easy to update for the developers.
 **I had to learn about Docker, Django, and how to run asynchronous tasks with `Redis` and `Celery`**.
@@ -40,7 +40,7 @@ The goal was to **dockerizing a Django application** to deploy on any machine. T
 
 <img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg" width=110 align='right' alt="France, 34">
 
-### Software Development: *CILcare*
+### Software Development: _CILcare_
 
 I worked on **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company.
 
@@ -81,20 +81,20 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 ### **Python projects**
 
-* [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
+- [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
 
 <img src="./images/MacroLogo.png" width=100> <img src="./images/macro-banner.png" height=100>
 
-* [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : **Full Stack Python** project managing Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
+- [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : **Full Stack Python** project managing Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
 
 <img src="./images/main_menu.png" width=250> <img src="./images/historique_menu.png" width=250> <img src="./images/pricemodifier.png" width=250>
 
 ### **Other perspectives**
 
-* Learning JavaScript, React with NextJs, and more...
-* Going deeper in the world of web development
-* Learning more about databases and collecting data
-* Learning more about machine learning and artificial intelligence
+- Learning JavaScript, React with NextJs, and more...
+- Going deeper in the world of web development
+- Learning more about databases and collecting data
+- Learning more about machine learning and artificial intelligence
 
 ---
 
