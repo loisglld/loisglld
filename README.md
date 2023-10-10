@@ -64,7 +64,7 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
         <br>
         <h3>• High level programming and OOP</h3>
-        <img src="https://skillicons.dev/icons?i=python,lua" />
+        <img src="https://skillicons.dev/icons?i=python,cpp,lua" />
         <br>
         <h3>• DevOps</h3>
         <img src="https://skillicons.dev/icons?i=git,github,docker,k8s" />
