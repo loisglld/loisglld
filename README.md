@@ -8,7 +8,7 @@
 
 <img src="./images/tps-logo.png" width=1000>
 
-I'm currently studying at Télécom Physique Strasbourg, a graduate engineering school in Strasbourg, France. I'm in my 3rd year of a 5 years long program, called "Cycle Ingénieur". I'm currently in the generalist department.
+I'm currently studying at Télécom Physique Strasbourg, a graduate engineering school in Strasbourg, France. I'm in my 4th year of a 5 years long program, called "Cycle Ingénieur" (Engineering program). I'm currently in the generalist department specialized in Data Analysis.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
