@@ -54,16 +54,14 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
         <h3>• Web development</h3>
         <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery" />
         <br>
-        <img src="https://skillicons.dev/icons?i=python,flask,django,nginx" />
+        <img src="https://skillicons.dev/icons?i=django,figma" />
         <br>
-        <img src="https://skillicons.dev/icons?i=react,nextjs,figma" />
-        <br>
-        <h3>• Low level programming</h3>
+        <h3>• Low level programming & embedded</h3>
         <img src="https://skillicons.dev/icons?i=c,cpp,rust,cmake" />
         <br>
         <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
         <br>
-        <h3>• High level programming and OOP</h3>
+        <h3>• High level programming & OOP</h3>
         <img src="https://skillicons.dev/icons?i=python,cpp,lua" />
         <br>
         <h3>• DevOps</h3>
