@@ -4,7 +4,7 @@
 <br><br>
 🔵⚪🔴 <br><br> I'm a 20 years old french generalist engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</strong></h1>
 
-## :mortar_board: **Where do I study ?**
+## 🎓 **Where do I study ?**
 
 <img src="./images/tps-logo.png" width=1000>
 
@@ -23,10 +23,10 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ---
 
-## **:file_folder: Professional experiences**
+## **📁 Professional experiences**
 
-<img src="./images/arp.jpg" width=200
- align='right' alt="France, 36">
+`<img src="./images/arp.jpg" width=200
+ align='right' alt="France, 36">`
 
 ### DevOps internship: _Automation Robotic Packaging_
 
@@ -46,7 +46,7 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 ---
 
-## :computer: My computing skills
+## 💻 My computing skills
 
 <div>
   <div>
@@ -75,17 +75,31 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 ---
 
-## :bulb: **What are my main projects ?**
+## 💡 **What are my main projects ?**
 
 ### **Python projects**
 
-- [MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper) : **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
+- #### **[MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper)**
+
+ **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
 
 <img src="./images/MacroLogo.png" width=100> <img src="./images/macro-banner.png" height=100>
 
-- [MarcoNeo](https://github.com/LOISGALLAUD/Marconeo) : **Full Stack Python** project managing Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
+- #### **[MarcoNeo](https://github.com/LOISGALLAUD/Marconeo)**
+
+**Full Stack Python** project managing Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
 
 <img src="./images/main_menu.png" width=250> <img src="./images/historique_menu.png" width=250> <img src="./images/pricemodifier.png" width=250>
+
+### **C++ projects**
+
+- #### **[Fast-scrap](https://github.com/LOISGALLAUD/fast-scrap)**
+
+Web scraper written in C++ using the [libcurl](https://curl.se/libcurl/) library. It is a command line tool that lets you download images from an url, and save them in a directory. When put in a script, it can be used to download a lot of images from a website.
+
+<img src="./image/README/1700641158556.png" width=250><img src="./image/README/1700641270685.png" height=250> <img src="./image/README/1700641232328.png" height=250>
+
+I am using it to download my favorite manga scans in a few seconds.
 
 ### **Other perspectives**
 
@@ -96,7 +110,7 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 ---
 
-## :information_source: GitHub Stats
+## ℹ️ GitHub Stats
 
 <div align='center'>
   <a href="https://github.com/LOISGALLAUD">
