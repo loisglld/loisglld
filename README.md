@@ -25,8 +25,8 @@ I'm currently studying at Télécom Physique Strasbourg, a graduate engineering 
 
 ## **📁 Professional experiences**
 
-`<img src="./images/arp.jpg" width=200
- align='right' alt="France, 36">`
+<img src="./images/arp.jpg" width=200
+ align='right' alt="France, 36">
 
 ### DevOps internship: _Automation Robotic Packaging_
 
@@ -77,6 +77,8 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 ## 💡 **What are my main projects ?**
 
+<img src="https://skillicons.dev/icons?i=python" align=right />
+
 ### **Python projects**
 
 - #### **[MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper)**
@@ -91,21 +93,35 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 <img src="./images/main_menu.png" width=250> <img src="./images/historique_menu.png" width=250> <img src="./images/pricemodifier.png" width=250>
 
+<img src="https://skillicons.dev/icons?i=cpp" align=right />
+
 ### **C++ projects**
 
 - #### **[Fast-scrap](https://github.com/LOISGALLAUD/fast-scrap)**
 
-Web scraper written in C++ using the [libcurl](https://curl.se/libcurl/) library. It is a command line tool that lets you download images from an url, and save them in a directory. When put in a script, it can be used to download a lot of images from a website.
+Web scraper written in C++ using the [libcurl](https://curl.se/libcurl/) library. It is a command line tool that lets you download images from an url, using proxies and a user agent list.
+It prevents you from being banned from a website for too many requests.
 
 <img src="./image/README/1700641158556.png" width=250><img src="./image/README/1700641270685.png" height=250> <img src="./image/README/1700641232328.png" height=250>
 
-I am using it to download my favorite manga scans in a few seconds.
+I am using it to download my favorite manga scans in a few seconds !
+
+<img src="https://skillicons.dev/icons?i=js" align=right />
+
+### **Web projects**
+
+- #### **[ASCIIM](https://github.com/LOISGALLAUD/asciim)**
+
+**Web application** that converts images to ASCII art. It is a web application written in Js, using the p5.js library. It can convert static images, or webcam feed.
+
+<img src="./image/README/zoroog.png" width=400 height=240> <img src="./image/README/zoro.png" width=400 height=250>
+
+<img src="./image/README/1700642276344.png" width=400 height=250>
 
 ### **Other perspectives**
 
-- Learning JavaScript, React with NextJs, and more...
 - Going deeper in the world of web development
-- Learning more about databases and collecting data
+- Learning more about cloud native DevOps
 - Learning more about machine learning and artificial intelligence
 
 ---
