@@ -6,9 +6,7 @@
 
 ## 🎓 **Where do I study ?**
 
-<img src="./images/tps-logo.png" width=1000>
-
-I'm currently studying at Télécom Physique Strasbourg, a graduate engineering school in Strasbourg, France. I'm in my 4th year of a 5 years long program, called "Cycle Ingénieur" (Engineering program). I'm currently in the generalist department specialized in Data Analysis.
+I'm currently studying at **Télécom Physique Strasbourg**, a graduate engineering school in Strasbourg, France. I'm in my 4th year of a 5 years long program, called "Cycle Ingénieur" (Engineering program). I'm currently in the generalist department specialized in Data Analysis.
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
@@ -83,7 +81,7 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 - #### **[MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper)**
 
- **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
+  **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
 
 <img src="./images/MacroLogo.png" width=100> <img src="./images/macro-banner.png" height=100>
 
