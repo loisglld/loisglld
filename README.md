@@ -44,35 +44,6 @@ I worked on **`CILpink Agenda`**, a planning application for the company as part
 
 ---
 
-## 💻 My computing skills
-
-<div>
-  <div>
-    <p>
-        <h3>• Web development</h3>
-        <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=django,figma" />
-        <br>
-        <h3>• Low level programming & embedded</h3>
-        <img src="https://skillicons.dev/icons?i=c,cpp,rust,cmake" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
-        <br>
-        <h3>• High level programming & OOP</h3>
-        <img src="https://skillicons.dev/icons?i=python,lua" />
-        <br>
-        <h3>• DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,docker" />
-        <br>
-        <h3>• Databases</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
-    </p>
-  </div>
-</div>
-
----
-
 ## 💡 **What are my main projects ?**
 
 <img src="https://skillicons.dev/icons?i=python" align=right />
@@ -121,6 +92,35 @@ I am using it to download my favorite manga scans in a few seconds !
 - Going deeper in the world of web development
 - Learning more about cloud native DevOps
 - Learning more about machine learning and artificial intelligence
+
+---
+
+## 💻 My computing skills
+
+<div>
+  <div>
+    <p>
+        <h3>• Web development</h3>
+        <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=django,figma" />
+        <br>
+        <h3>• Low level programming & embedded</h3>
+        <img src="https://skillicons.dev/icons?i=c,cpp,rust,cmake" />
+        <br>
+        <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+        <br>
+        <h3>• High level programming & OOP</h3>
+        <img src="https://skillicons.dev/icons?i=python,lua" />
+        <br>
+        <h3>• DevOps</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,docker" />
+        <br>
+        <h3>• Databases</h3>
+        <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+    </p>
+  </div>
+</div>
 
 ---
 
