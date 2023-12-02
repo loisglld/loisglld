@@ -133,3 +133,4 @@ I am using it to download my favorite manga scans in a few seconds !
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=footer"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LOISGALLAUD&layout=compact&langs_count=16&theme=github_dark" />
