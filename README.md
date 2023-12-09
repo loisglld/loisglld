@@ -114,7 +114,7 @@ I am using it to download my favorite manga scans in a few seconds !
         <img src="https://skillicons.dev/icons?i=python,lua" />
         <br>
         <h3>• DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,docker" />
+        <img src="https://skillicons.dev/icons?i=git,github,docker,k8s" />
         <br>
         <h3>• Databases</h3>
         <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
