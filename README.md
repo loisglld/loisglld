@@ -101,9 +101,9 @@ I am using it to download my favorite manga scans in a few seconds !
   <div>
     <p>
         <h3>• Web development</h3>
-        <img src="https://skillicons.dev/icons?i=html,js,css,bootstrap,jquery" />
+        <img src="https://skillicons.dev/icons?i=react,ts,vite" />
         <br>
-        <img src="https://skillicons.dev/icons?i=django,figma,tailwind" />
+        <img src="https://skillicons.dev/icons?i=django,nextjs,tailwind" />
         <br>
         <h3>• Low level programming & embedded</h3>
         <img src="https://skillicons.dev/icons?i=c,cpp,rust,cmake" />
