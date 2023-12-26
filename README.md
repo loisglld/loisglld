@@ -103,7 +103,7 @@ I am using it to download my favorite manga scans in a few seconds !
         <h3>• Web development</h3>
         <img src="https://skillicons.dev/icons?i=react,ts,vite,nextjs" />
         <br>
-        <img src="https://skillicons.dev/icons?i=django,prisma,tailwind" />
+        <img src="https://skillicons.dev/icons?i=django,tailwind" />
         <br>
         <h3>• Low level programming & embedded</h3>
         <img src="https://skillicons.dev/icons?i=c,cpp,rust,cmake" />
@@ -117,7 +117,7 @@ I am using it to download my favorite manga scans in a few seconds !
         <img src="https://skillicons.dev/icons?i=git,github,docker,k8s" />
         <br>
         <h3>• Databases</h3>
-        <img src="https://skillicons.dev/icons?i=mysql,mongodb,redis" />
+        <img src="https://skillicons.dev/icons?i=mysql,prisma,mongodb,redis" />
     </p>
   </div>
 </div>
