@@ -36,7 +36,7 @@ The goal was to **dockerizing a Django application** to deploy on any machine. T
     <p>Docker structure set up for application's needs</p>
 </div>
 
-<img src="https://www.cilcare.com/wp-content/uploads/2014/10/logo-cilcare-20141.jpg" width=110 align='right' alt="France, 34">
+<img src="https://media.licdn.com/dms/image/D4E0BAQEfeTUiNx93fw/company-logo_200_200/0/1700140025845/cilcare_logo?e=2147483647&v=beta&t=96yTHZ7kmBNI1N-_e3fjyRU0CjiD01Hqd_i5G9sV0Cs" width=110 align='right' alt="France, 34">
 
 ### Software Development: _CILcare_
 
