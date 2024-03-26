@@ -75,7 +75,7 @@ Currently, I'm learning with online **_IBM_** courses about **Cloud computing** 
 <div 
 style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <img 
-  src="https://www.svgrepo.com/show/331358/credly.svg" style="width:7%; margin-right: 0.5em;">
+  src="https://www.svgrepo.com/show/331358/credly.svg" style="width:7%;" align="right">
   Check my Credly profile [here](https://www.credly.com/users/lois-gallaud/badges) to see my certifications.
 </div>
 
