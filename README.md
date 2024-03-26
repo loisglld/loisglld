@@ -21,17 +21,36 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
 
 If you wanna know more about me, you can check :
 
-<div style="">
-  <span style="">
-    <a href="https://www.linkedin.com/in/loisgallaud/" target="_blank" rel="noreferrer" style="display: flex;">
-      <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="width: 5%; padding-right: 1em;" />
-      LinkedIn profile
+<div 
+style="">
+    <a 
+    href="https://www.linkedin.com/in/loisgallaud/"
+    target="_blank"
+    rel="noreferrer"
+    style="display: flex;">
+      <img 
+      src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
+      alt="LinkedIn"
+      style="width: 5%; padding-right: 1em;" />
+      <p
+      >
+        LinkedIn profile
+      </p>
     </a>
-    <a href="https://who-is-loisg.vercel.app"  target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
-      <img src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png" alt="Personal website" style="width: 5%; padding-right: 2em;" />
-      Personal website
+    <a 
+    href="https://who-is-loisg.vercel.app"
+    target="_blank" 
+    rel="noreferrer"
+    style="display: flex; justify-content: center; align-items: center;">
+      <img 
+      src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
+      alt="Personal website"
+      style="width: 5%; padding-right: 2em;" />
+      <p
+      >
+        Personal website
+      </p>
     </a>
-  </span>
 </div>
 
 ---
