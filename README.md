@@ -70,14 +70,10 @@ Currently, I'm learning with online **_IBM_** courses about **Cloud computing** 
 
 <img src="https://skillsbuild.org/_next/image?url=https%3A%2F%2Fskillsbuild.org%2Fmedia%2F2023%2F02%2FJourney-to-Cloud-Envisioning-Your-Solution.png&w=640&q=75" style="width:20%">
 
+<img 
+src="https://www.svgrepo.com/show/331358/credly.svg" style="width:7%;" align="right">
 <br>
-
-<div 
-style="display: flex; justify-content: center; align-items: center; flex-direction:row">
-  <img 
-  src="https://www.svgrepo.com/show/331358/credly.svg" style="width:7%;" align="right">
-  Check my Credly profile [here](https://www.credly.com/users/lois-gallaud/badges) to see my certifications.
-</div>
+Check my Credly profile [here](https://www.credly.com/users/lois-gallaud/badges) to see my certifications.
 
 ---
 
