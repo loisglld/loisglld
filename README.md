@@ -21,7 +21,7 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
 
 If you wanna know more about me, you can check :
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
+<div align="left" style="display: flex; justify-content: left; align-items: center; flex-direction:row">
   <div style="flex: 1;">
     <a href="https://www.linkedin.com/in/loisgallaud/" target="_blank" rel="noreferrer">
       <img 
