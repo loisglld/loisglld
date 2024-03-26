@@ -21,7 +21,9 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
 
 If you wanna know more about me, you can check :
 
-<div>
+<div 
+style="display: flex; justify-content: center; align-items: center; flex-direction:column; margin-top: 1em;"
+>
     <a 
     href="https://www.linkedin.com/in/loisgallaud/"
     target="_blank"
@@ -69,11 +71,6 @@ I'm already familiar with some technos of the domain, because I've already worke
 Currently, I'm learning with online **_IBM_** courses about **Cloud computing** and **DevOps**. I'm also planning to get some certifications in these fields; here are some of them :
 
 <img src="https://skillsbuild.org/_next/image?url=https%3A%2F%2Fskillsbuild.org%2Fmedia%2F2023%2F02%2FJourney-to-Cloud-Envisioning-Your-Solution.png&w=640&q=75" style="width:20%">
-
-<img 
-src="https://www.svgrepo.com/show/331358/credly.svg" style="width:7%;" align="right">
-<br>
-Check my Credly profile [here](https://www.credly.com/users/lois-gallaud/badges) to see my certifications.
 
 ---
 
