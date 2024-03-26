@@ -26,8 +26,8 @@ If you wanna know more about me, you can check :
     href="https://www.linkedin.com/in/loisgallaud/"
     target="_blank"
     rel="noreferrer">
-      <span
-        style="display: flex; justify-content: center; align-items: center; flex-direction:row">
+      <div
+      style="display: flex; justify-content: center; align-items: center; flex-direction:row">
         <img 
         src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
         alt="LinkedIn"
@@ -36,13 +36,13 @@ If you wanna know more about me, you can check :
         >
           LinkedIn profile
         </p>
-      </span>
+      </div>
     </a>
     <a 
     href="https://who-is-loisg.vercel.app"
     target="_blank" 
     rel="noreferrer">
-      <span
+      <div
       style="display: flex; justify-content: center; align-items: center; flex-direction:row">
         <img
         src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
@@ -52,7 +52,7 @@ If you wanna know more about me, you can check :
         >
           Personal website
         </p>
-      </span>
+      </div>
     </a>
 </div>
 
