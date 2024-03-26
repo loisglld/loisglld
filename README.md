@@ -11,9 +11,9 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
     <a href="https://www.telecom-physique.fr/" target="_blank" rel="noreferrer">
-      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 45%;">
+      <img src="./images/TPS.jfif" alt="Télécom Physique Strasbourg" style="width: 35%;">
     </a><a href="https://www.strasbourg.eu/" target="_blank" rel="noreferrer">
-      <img src="./images/strasbourg.png" alt="Strasbourg location" style="width: 45%;">
+      <img src="./images/strasbourg.png" alt="Strasbourg location" style="width: 35%;">
     </a>
     <p>Télécom Physique Strasbourg, Graduate Engineering School since 1970</p>
   </div>
@@ -25,30 +25,34 @@ If you wanna know more about me, you can check :
     <a 
     href="https://www.linkedin.com/in/loisgallaud/"
     target="_blank"
-    rel="noreferrer"
-    style="display: flex;">
-      <img 
-      src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
-      alt="LinkedIn"
-      style="width: 3%; padding-right: 1em;" />
-      <p
-      >
-        LinkedIn profile
-      </p>
+    rel="noreferrer">
+      <span
+        style="display: flex; justify-content: center; align-items: center; flex-direction:row">
+        <img 
+        src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
+        alt="LinkedIn"
+        style="width: 3%; padding-right: 1em;" />
+        <p
+        >
+          LinkedIn profile
+        </p>
+      </span>
     </a>
     <a 
     href="https://who-is-loisg.vercel.app"
     target="_blank" 
-    rel="noreferrer"
-    style="display: flex;">
-      <img 
-      src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
-      alt="Personal website"
-      style="width: 3%; padding-right: 2em;" />
-      <p
-      >
-        Personal website
-      </p>
+    rel="noreferrer">
+      <span
+      style="display: flex; justify-content: center; align-items: center; flex-direction:row">
+        <img
+        src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
+        alt="Personal website"
+        style="width: 3%; padding-right: 2em;" />
+        <p
+        >
+          Personal website
+        </p>
+      </span>
     </a>
 </div>
 
