@@ -21,41 +21,20 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
 
 If you wanna know more about me, you can check :
 
-<div 
-style="display: flex; justify-content: center; align-items: center; flex-direction:column; margin-top: 1em;"
->
-    <a 
-    href="https://www.linkedin.com/in/loisgallaud/"
-    target="_blank"
-    rel="noreferrer">
-      <div
-      style="display: flex; justify-content: center; align-items: center; flex-direction:row">
-        <img 
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
+  <div style="flex: 1;">
+    <a href="https://www.linkedin.com/in/loisgallaud/" target="_blank" rel="noreferrer">
+      <img 
         src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
         alt="LinkedIn"
         style="width: 4%; padding-right: 1em;" />
-        <p
-        >
-          LinkedIn profile
-        </p>
-      </div>
-    </a>
-    <a 
-    href="https://who-is-loisg.vercel.app"
-    target="_blank" 
-    rel="noreferrer">
-      <div
-      style="display: flex; justify-content: center; align-items: center; flex-direction:row">
-        <img
+    </a><a href="https://who-is-loisg.vercel.app" target="_blank" rel="noreferrer">
+      <img
         src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
         alt="Personal website"
         style="width: 4%; padding-right: 2em;" />
-        <p
-        >
-          Personal website
-        </p>
-      </div>
     </a>
+  </div>
 </div>
 
 ---
