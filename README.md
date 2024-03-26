@@ -21,8 +21,7 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
 
 If you wanna know more about me, you can check :
 
-<div 
-style="">
+<div>
     <a 
     href="https://www.linkedin.com/in/loisgallaud/"
     target="_blank"
@@ -31,7 +30,7 @@ style="">
       <img 
       src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
       alt="LinkedIn"
-      style="width: 5%; padding-right: 1em;" />
+      style="width: 3%; padding-right: 1em;" />
       <p
       >
         LinkedIn profile
@@ -41,11 +40,11 @@ style="">
     href="https://who-is-loisg.vercel.app"
     target="_blank" 
     rel="noreferrer"
-    style="display: flex; justify-content: center; align-items: center;">
+    style="display: flex;">
       <img 
       src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
       alt="Personal website"
-      style="width: 5%; padding-right: 2em;" />
+      style="width: 3%; padding-right: 2em;" />
       <p
       >
         Personal website
