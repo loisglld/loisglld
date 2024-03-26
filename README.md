@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
 </p>Hello there :wave:, I'm <strong>Loïs GALLAUD
 <br><br>
-🔵⚪🔴 <br><br>I'm a 20-year-old French engineering student at <br> <strong>Télécom Physique Strasbourg</strong> <br><br> 🔵⚪🔴</strong></h1>
+🔵⚪🔴 <br><br>I'm a French engineering student passionate about<br><br> <strong>☁️ DevOps & Cloud Computing ☁️</strong> <br><br> 🔵⚪🔴</strong></h1>
 
-## 🎓 **Where do I study ?**
+## 🐙 **Wanna know who am I ?**
 
-I'm currently studying at **Télécom Physique Strasbourg**, a graduate engineering school in Strasbourg, France. I'm in my 4th year of a 5 years long program, called "Cycle Ingénieur" (Engineering program). I'm currently in the generalist department specialized in Data Analysis.
+I'm a 20 years old student from France, passionate about **computing** and **technology**. I'm a **curious** person, always looking for new things to learn on my own. I'm currently studying at **Télécom Physique Strasbourg**, a graduate engineering school in Strasbourg, France. I'm in my 4th year of a 5 years long program, called "Cycle Ingénieur" (Engineering program).
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction:row">
   <div style="flex: 1;">
@@ -19,83 +19,34 @@ I'm currently studying at **Télécom Physique Strasbourg**, a graduate engineer
   </div>
 </div>
 
----
+If you wanna know more about me, you can check :
 
-## **📁 Professional experiences**
-
-<img src="./images/arp.jpg" width=200
- align='right' alt="France, 36">
-
-### DevOps internship: _Automation Robotic Packaging_
-
-The goal was to **dockerizing a Django application** to deploy on any machine. The application is a web interface to manage the organization of electrical components in ARP machine projects.The goal of the internship was to make the application easy to deploy on any machine, and to make it easy to update for the developers.
-**I had to learn about Docker, Django, and how to run asynchronous tasks with `Redis` and `Celery`**.
-
-<div style="text-align:center;">
-    <img src="./images/docker-network-arp.png" width="600">
-    <p>Docker structure set up for application's needs</p>
+<div style="">
+  <span style="display: flex; justify-content: center; align-items: center; flex-direction:row">
+    <a href="https://www.linkedin.com/in/loisgallaud/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="width: 10%; margin-right: 0.5em;" />
+      My LinkedIn profile
+    </a>
+    <a href="https://who-is-loisg.vercel.app"  target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
+      <img src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png" alt="Personal website" style="width: 10%; margin-right: 0.5em;" />
+      My personal website
+    </a>
+  </span>
 </div>
 
-<img src="https://media.licdn.com/dms/image/D4E0BAQEfeTUiNx93fw/company-logo_200_200/0/1700140025845/cilcare_logo?e=2147483647&v=beta&t=96yTHZ7kmBNI1N-_e3fjyRU0CjiD01Hqd_i5G9sV0Cs" width=110 align='right' alt="France, 34">
+---
 
-### Software Development: _CILcare_
+## **☁️ Professional Aspirations**
 
-I worked on **`CILpink Agenda`**, a planning application for the company as part of **a contract signed with my engineering school's junior enterprise**, which facilitated my connection with the company.
+<img src="https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-cloudcomputing-4417107_116633.png" alt="Cloud Computing" style="width: 20%; float: right; margin-left: 1%; margin-bottom: 0.5em;" />
+
+I'm currently looking for a **6 months internship** in **DevOps** or **Cloud Computing**. I'm looking for a company that will allow me to **learn** and **improve** my skills in these fields.
+
+I'm already familiar with some technos of the domain, because I've already worked on some projects related to **DevOps**, **CI/CD** and **Cloud Computing** in the past.
 
 ---
 
-## 💡 **What are my main projects ?**
-
-<img src="https://skillicons.dev/icons?i=python" align=right />
-
-### **Python projects**
-
-- #### **[MacroScrapper](https://github.com/LOISGALLAUD/MacroScrapper)**
-
-  **Web scrapper** for [Bandcamp](https://bandcamp.com/) music. It is a Python script that will download all the free music from a Bandcamp artist page, album after album, in your Music directory.
-
-<img src="./images/MacroLogo.png" width=100> <img src="./images/macro-banner.png" height=100>
-
-- #### **[MarcoNeo](https://github.com/LOISGALLAUD/Marconeo)**
-
-**Full Stack Python** project managing Télécom Physique Strasbourg's students' money. They store a bit of money on their student card, and can use it to buy food or drinks in the "Fouaille" (student's residence). This project is a part of my campain at TPS as Tech Vice President.
-
-<img src="./images/main_menu.png" width=250> <img src="./images/historique_menu.png" width=250> <img src="./images/pricemodifier.png" width=250>
-
-<img src="https://skillicons.dev/icons?i=cpp" align=right />
-
-### **C++ projects**
-
-- #### **[Fast-scrap](https://github.com/LOISGALLAUD/fast-scrap)**
-
-Web scraper written in C++ using the [libcurl](https://curl.se/libcurl/) library. It is a command line tool that lets you download images from an url, using proxies and a user agent list.
-It prevents you from being banned from a website for too many requests.
-
-<img src="./image/README/1700641158556.png" width=250><img src="./image/README/1700641270685.png" height=250> <img src="./image/README/1700641232328.png" height=250>
-
-I am using it to download my favorite manga scans in a few seconds !
-
-<img src="https://skillicons.dev/icons?i=js" align=right />
-
-### **Web projects**
-
-- #### **[ASCIIM](https://github.com/LOISGALLAUD/asciim)**
-
-**Web application** that converts images to ASCII art. It is a web application written in Js, using the p5.js library. It can convert static images, or webcam feed.
-
-<img src="./image/README/zoroog.png" width=400 height=240> <img src="./image/README/zoro.png" width=400 height=250>
-
-<img src="./image/README/1700642276344.png" width=400 height=250>
-
-### **Other perspectives**
-
-- Going deeper in the world of web development
-- Learning more about cloud native DevOps
-- Learning more about machine learning and artificial intelligence
-
----
-
-## 💻 My computing skills
+## 💻 **Technos**
 
 <div>
   <div>
@@ -113,10 +64,13 @@ I am using it to download my favorite manga scans in a few seconds !
         <h3>• High level programming & OOP</h3>
         <img src="https://skillicons.dev/icons?i=python,lua,go" />
         <br>
-        <h3>• DevOps</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,k8s" />
+        <h3>• DevOps, Cloud computing & CI/CD</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,docker,k8s,aws" />
         <br>
-        <h3>• Databases</h3>
+        <img src="https://www.wescale.fr/hs-fs/hubfs/argo-icon-color.png?width=300&height=300&name=argo-icon-color.png" style="width: 7%;" />
+        <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ibm_cloud_logo_icon_169019.png" style="width: 7%;" />
+        <br>
+        <h3>• Databases workflows</h3>
         <img src="https://skillicons.dev/icons?i=mysql,prisma,mongodb,redis" />
     </p>
   </div>
