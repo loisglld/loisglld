@@ -31,7 +31,7 @@ If you wanna know more about me, you can check :
         <img 
         src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
         alt="LinkedIn"
-        style="width: 3%; padding-right: 1em;" />
+        style="width: 4%; padding-right: 1em;" />
         <p
         >
           LinkedIn profile
@@ -47,7 +47,7 @@ If you wanna know more about me, you can check :
         <img
         src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
         alt="Personal website"
-        style="width: 3%; padding-right: 2em;" />
+        style="width: 4%; padding-right: 2em;" />
         <p
         >
           Personal website
@@ -69,6 +69,12 @@ I'm already familiar with some technos of the domain, because I've already worke
 Currently, I'm learning with online **_IBM_** courses about **Cloud computing** and **DevOps**. I'm also planning to get some certifications in these fields; here are some of them :
 
 <img src="https://skillsbuild.org/_next/image?url=https%3A%2F%2Fskillsbuild.org%2Fmedia%2F2023%2F02%2FJourney-to-Cloud-Envisioning-Your-Solution.png&w=640&q=75" style="width:20%">
+
+<br>
+<br>
+
+<img src="https://www.svgrepo.com/show/331358/credly.svg" style="width:4%">
+Check my Credly profile [here](https://www.credly.com/users/lois-gallaud/badges) to see my certifications.
 
 ---
 
