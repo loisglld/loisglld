@@ -28,12 +28,13 @@ If you wanna know more about me, you can check my **LinkedIn** profile or my **p
         src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
         alt="LinkedIn"
         style="width: 4%; padding-right: 1em;" />
-    </a><a href="https://who-is-loisg.vercel.app" target="_blank" rel="noreferrer">
+    </a>
+    <!-- <a href="" target="_blank" rel="noreferrer">
       <img
         src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
         alt="Personal website"
         style="width: 4%; padding-right: 2em;" />
-    </a>
+    </a> -->
   </div>
 </div>
 
