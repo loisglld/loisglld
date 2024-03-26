@@ -19,7 +19,7 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
   </div>
 </div>
 
-If you wanna know more about me, you can check :
+If you wanna know more about me, you can check my **LinkedIn** profile or my **personal website** :
 
 <div align="left" style="display: flex; justify-content: left; align-items: center; flex-direction:row">
   <div style="flex: 1;">
