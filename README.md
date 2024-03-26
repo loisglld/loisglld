@@ -38,7 +38,7 @@ If you wanna know more about me, you can check :
 
 ## **☁️ Professional Aspirations**
 
-<img src="https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-cloudcomputing-4417107_116633.png" alt="Cloud Computing" style="width: 20%; float: right; margin-left: 1%; margin-bottom: 0.5em;" />
+<img src="https://cdn.icon-icons.com/icons2/1852/PNG/512/iconfinder-cloudcomputing-4417107_116633.png" alt="Cloud Computing" style="width: 20%; margin-left: 1%; margin-bottom: 0.5em;" align="right" />
 
 I'm currently looking for a **6 months internship** in **DevOps** or **Cloud Computing**. I'm looking for a company that will allow me to **learn** and **improve** my skills in these fields.
 
