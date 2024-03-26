@@ -72,7 +72,7 @@ Currently, I'm learning with online **_IBM_** courses about **Cloud computing** 
         <img src="https://skillicons.dev/icons?i=python,lua,go" />
         <br>
         <h3>• DevOps, Cloud computing & CI/CD</h3>
-        <img src="https://skillicons.dev/icons?i=git,github,docker,k8s,aws" />
+        <img src="https://skillicons.dev/icons?i=docker,k8s,aws" />
         <br>
         <img src="https://www.wescale.fr/hs-fs/hubfs/argo-icon-color.png?width=300&height=300&name=argo-icon-color.png" style="width: 7%;" />
         <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/ibm_cloud_logo_icon_169019.png" style="width: 7%;" />
