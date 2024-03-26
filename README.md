@@ -22,14 +22,12 @@ I'm a 20 years old student from France, passionate about **computing** and **tec
 If you wanna know more about me, you can check :
 
 <div style="">
-  <span style="display: flex; justify-content: center; align-items: center; flex-direction:row">
-    <a href="https://www.linkedin.com/in/loisgallaud/" target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
+  <span style="display: flex; justify-content: start; align-items: start; flex-direction:row">
+    <a href="https://www.linkedin.com/in/loisgallaud/" target="_blank" rel="noreferrer" style="display: flex;">
       <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" alt="LinkedIn" style="width: 5%; margin-right: 0.5em;" />
-      My LinkedIn profile
     </a>
     <a href="https://who-is-loisg.vercel.app"  target="_blank" rel="noreferrer" style="display: flex; justify-content: center; align-items: center;">
       <img src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png" alt="Personal website" style="width: 5%; margin-right: 0.5em;" />
-      My personal website
     </a>
   </span>
 </div>
@@ -43,6 +41,10 @@ If you wanna know more about me, you can check :
 I'm currently looking for a **6 months internship** in **DevOps** or **Cloud Computing**. I'm looking for a company that will allow me to **learn** and **improve** my skills in these fields.
 
 I'm already familiar with some technos of the domain, because I've already worked on some projects related to **DevOps**, **CI/CD** and **Cloud Computing** in the past.
+
+Currently, I'm learning with online **_IBM_** courses about **Cloud computing** and **DevOps**. I'm also planning to get some certifications in these fields; here are some of them :
+
+<img src="https://skillsbuild.org/_next/image?url=https%3A%2F%2Fskillsbuild.org%2Fmedia%2F2023%2F02%2FJourney-to-Cloud-Envisioning-Your-Solution.png&w=640&q=75" style="width:20%">
 
 ---
 
