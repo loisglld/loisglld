@@ -4,7 +4,7 @@
 <br><br>
 🔵⚪🔴 <br><br>I'm a French engineering student passionate about<br><br> <strong>☁️ DevOps & Cloud Computing ☁️</strong> <br><br> 🔵⚪🔴</strong></h1>
 
-## 🐙 **Wanna know who am I ?**
+## 🐙 **About me**
 
 I'm a 20 years old student from France, passionate about **computing** and **technology**. I'm a **curious** person, always looking for new things to learn on my own. I'm currently studying at **Télécom Physique Strasbourg**, a graduate engineering school in Strasbourg, France. I'm in my 4th year of a 5 years long program, called "Cycle Ingénieur" (Engineering program).
 
