@@ -1,10 +1,9 @@
-<h2 align="center">
+<h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
-  Hello there :wave:,<br>
-  I'm Loïs GALLAUD
-</h2>
+  Hello there :wave:, I'm Loïs GALLAUD
+</h1>
 
-#### 🐙 **About me**
+### 🐙 **About me**
 
 I'm a 20 years old student from France, passionate about web design and cloud technologies.
 If you wanna know more about me, you can check my **LinkedIn** profile or my **personal website** :
