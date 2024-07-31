@@ -1,31 +1,15 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
-  Hello there :wave:, I'm Loïs GALLAUD
+  Hello there :wave:
 </h1>
 
 ### 🐙 **About me**
 
-I'm a 20 years old student from France, passionate about web design and cloud technologies.
-If you wanna know more about me, you can check my **LinkedIn** profile or my **personal website** :
+- 21 yo
+- 🇫🇷 French
+- ☁ Wanna cloud compute
 
-<div align="left" style="display: flex; justify-content: left; align-items: center; flex-direction:row">
-  <div style="flex: 1;">
-    <a href="https://www.linkedin.com/in/loisgallaud/" target="_blank" rel="noreferrer">
-      <img 
-        src="https://cdn-icons-png.flaticon.com/256/174/174857.png" 
-        alt="LinkedIn"
-        style="width: 4%; padding-right: 1em;" />
-    </a>
-    <!-- <a href="" target="_blank" rel="noreferrer">
-      <img
-        src="https://cdn-icons-png.flaticon.com/256/2985/2985788.png"
-        alt="Personal website"
-        style="width: 4%; padding-right: 2em;" />
-    </a> -->
-  </div>
-</div>
-
-Some certifications I've earned :
+My certifications :
 
 <!-- IBM SKILLS -->
 <div align="left" style="display: flex; justify-content: left; align-items: center; flex-direction:row">
