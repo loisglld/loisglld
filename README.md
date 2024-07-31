@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=115&section=header"/>
-  Hello there :wave:
+  What's up, I'm Loïs 👋
 </h1>
 
 ### 🐙 **About me**
@@ -9,7 +9,9 @@
 - 🇫🇷 French
 - ☁ Wanna cloud compute
 
-My certifications :
+See more on my [LinkedIn](https://www.linkedin.com/in/loisgallaud/) or [my website](https://who-is-loisg.vercel.app/) ᕕ( ͡° ͜ʖ ͡° )ᕗ
+
+### 🚀 My certifications
 
 <!-- IBM SKILLS -->
 <div align="left" style="display: flex; justify-content: left; align-items: center; flex-direction:row">
