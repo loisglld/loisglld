@@ -9,7 +9,7 @@
 - 🇫🇷 French
 - ☁ Wanna cloud compute
 
-See more on my [LinkedIn](https://www.linkedin.com/in/loisgallaud/), [my website](https://loisglld.github.io/blog) OR [my brand new blog] ᕕ( ͡° ͜ʖ ͡° )ᕗ
+See more on my [LinkedIn](https://www.linkedin.com/in/loisgallaud/), [my website](https://who-is-loisg.vercel.app) OR [my brand new blog](https://loisglld.github.io/blog) ᕕ( ͡° ͜ʖ ͡° )ᕗ
 
 ### 🚀 My certifications
 
