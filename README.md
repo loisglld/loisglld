@@ -24,8 +24,8 @@ See more on my [LinkedIn](https://www.linkedin.com/in/loisgallaud/), [my website
 #### ℹ️ GitHub Stats
 
 <div align='center'>
-  <a href="https://github.com/LOISGALLAUD">
-  <img alt="LOISGALLAUD's streak" src="https://streak-stats.demolab.com/?user=LOISGALLAUD&theme=monokai-metallian&hide_border=true" width="100%"/>
+  <a href="https://github.com/loisglld">
+  <img alt="loisglld's streak" src="https://streak-stats.demolab.com/?user=loisglld&theme=monokai-metallian&hide_border=true" width="100%"/>
   </a>
 </div>
 
