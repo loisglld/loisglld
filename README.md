@@ -17,6 +17,8 @@ See more on my [LinkedIn](https://www.linkedin.com/in/loisgallaud/), [my website
 <div align="left" style="display: flex; justify-content: left; align-items: center; flex-direction:row">
   <img src="https://skillsbuild.org/_next/image?url=https%3A%2F%2Fskillsbuild.org%2Fmedia%2F2023%2F02%2FJourney-to-Cloud-Envisioning-Your-Solution.png&w=640&q=75" style="width:20%">
   <img src="https://skillsbuild.org/_next/image?url=https%3A%2F%2Fskillsbuild.org%2Fmedia%2F2023%2F06%2FCloud-Computing-Fundamentals.png&w=640&q=75" style="width:20%">
+  <img src="https://training.cellenza.com/wp-content/uploads/2021/08/AZ900.png" style="width:20%">
+
 </div>
 
 ---
