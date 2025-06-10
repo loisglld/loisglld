@@ -5,11 +5,11 @@
 
 ### 🐙 **About me**
 
-- 21 yo
+- 21
 - 🇫🇷 French
-- ☁ Wanna cloud compute
+- ☁ PaaSionate about Cloud Computing
 
-See more on my [LinkedIn](https://www.linkedin.com/in/loisgallaud/), [my website](https://who.is.loisg.fr) OR [my brand new blog](https://loisglld.github.io/blog) ᕕ( ͡° ͜ʖ ͡° )ᕗ
+See more on my [LinkedIn](https://www.linkedin.com/in/loisgallaud/) or [my brand new blog](https://loisglld.github.io/blog) ᕕ( ͡° ͜ʖ ͡° )ᕗ
 
 ### 🚀 My certifications
 
